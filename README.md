@@ -6,12 +6,14 @@ This repository contains the Jupyter notebooks and supplementary materials neede
 
 ## Repository Contents
 
-| File | Description |
-|------|-------------|
+| File/Folder | Description |
+|-------------|-------------|
 | `AIforEngineers.pdf` | Full guide (PDF) |
 | `ch2_LinearRegression.ipynb` | **Linear Regression** — Predicting elastic stress from strain using closed-form solutions and gradient descent |
 | `ch3_SymbolicRegression.ipynb` | **Symbolic Regression** — Discovering closed-form beam-deflection equations via genetic programming |
 | `ch4_NeuralNetworks.ipynb` | **Neural Networks** — Binary image classification for concrete crack detection (FNN and CNN) |
+| `Hands-on Data/` | Folder containing datasets (cantilever_data.csv, steel_stress_strain.csv) and prompts for hands-on exercises (prompts.md) |
+| `Presentations/` | Folder containing presentation slides for each chapter (chapter1_presentation.pdf through chapter5_presentation.pdf) |
 
 ## Getting Started
 
